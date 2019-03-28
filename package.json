@@ -19,8 +19,10 @@
     "type": "git",
     "url": "git+https://github.com/martinoooo/ts-ass.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "test"
+  ],
+  "author": "martinooooqaq",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/martinoooo/ts-ass/issues"
